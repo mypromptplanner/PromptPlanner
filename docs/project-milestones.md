@@ -1,13 +1,35 @@
-Project Milestones
+PromptPlanner Project Milestones
+Milestone 1
+Project Planning
 
-Milestone 1 Project Planning
+Status: Completed
 
-Milestone 2 UI Development
+Milestone 2
+UI Design
 
-Milestone 3 Backend Development
+Status: In Progress
 
-Milestone 4 Testing
+Milestone 3
+Flutter Development
 
-Milestone 5 Beta Release
+Status: Pending
 
-Milestone 6 Production Release
+Milestone 4
+Database Integration
+
+Status: Pending
+
+Milestone 5
+Testing
+
+Status: Pending
+
+Milestone 6
+Beta Release
+
+Status: Pending
+
+Milestone 7
+Production Release
+
+Status: Pending
