@@ -74,3 +74,31 @@ Notes
 [________________]
 
 [ Save ]
+Screen 5 - Add Expense
+Amount
+
+[____________]
+
+Category
+
+( ) Food
+
+( ) Travel
+
+( ) Shopping
+
+( ) Medical
+
+( ) Rent
+
+( ) Groceries
+
+Date
+
+[ Select Date ]
+
+Notes
+
+[________________]
+
+[ Save ]
