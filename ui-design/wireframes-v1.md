@@ -20,7 +20,9 @@ PIN
 
 [ Register ]
 Screen 3 - Dashboard
-Balance
+Hello Anil
+
+Current Balance
 
 ₹50,000
 
@@ -28,26 +30,27 @@ Income
 
 ₹75,000
 
-Expenses
+Expense
 
 ₹25,000
 
-Bills Due
+Upcoming Bills
 
-2
+Electricity Bill
 
-EMIs Due
+10-Dec-2026
 
-1
+Internet Bill
+
+15-Dec-2026
+
+Quick Actions
 
 [ Add Income ]
 
 [ Add Expense ]
 
-Upcoming Payments
-
-Credit Card Bill
-Home Loan EMI
+[ Add Bill ]
 Screen 4 - Add Income
 Amount
 
