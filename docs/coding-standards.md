@@ -20,3 +20,12 @@ Add login screen
 Fix dashboard layout
 
 Update expense module
+
+Documentation
+Every screen and module should be documented clearly.
+
+Folder Structure
+ui-design database docs mobile-app testing
+
+Security
+Do not store PINs in plain text. Use secure authentication methods.
