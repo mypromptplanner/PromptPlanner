@@ -19,3 +19,32 @@ PIN
 [ Login ]
 
 [ Register ]
+Screen 3 - Dashboard
+Balance
+
+₹50,000
+
+Income
+
+₹75,000
+
+Expenses
+
+₹25,000
+
+Bills Due
+
+2
+
+EMIs Due
+
+1
+
+[ Add Income ]
+
+[ Add Expense ]
+
+Upcoming Payments
+
+Credit Card Bill
+Home Loan EMI
