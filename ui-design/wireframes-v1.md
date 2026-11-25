@@ -184,3 +184,87 @@ Due Date
 [ Select Date ]
 
 [ Save ]
+Screen 11 - EMI List
+Active EMIs
+
+Home Loan
+
+₹15,000
+
+Due: 05-Dec-2026
+
+Car Loan
+
+₹8,000
+
+Due: 10-Dec-2026
+
+[ Add EMI ]
+Screen 12 - Lending
+Person Name
+
+[____________]
+
+Amount
+
+[____________]
+
+Due Date
+
+[ Select Date ]
+
+[ Save ]
+Screen 13 - Borrowing
+Lender Name
+
+[____________]
+
+Amount
+
+[____________]
+
+Due Date
+
+[ Select Date ]
+
+[ Save ]
+Screen 14 - Lending/Borrowing List
+Ramesh
+
+Lent
+
+₹5,000
+
+Suresh
+
+Borrowed
+
+₹3,000
+Screen 15 - Reports
+Daily Report
+
+Weekly Report
+
+Monthly Report
+
+Yearly Report
+
+[ View Chart ]
+Screen 16 - Settings
+Profile
+
+Change PIN
+
+Notifications
+
+Backup
+
+About App
+Screen 17 - About App
+PromptPlanner
+
+Version 1.0
+
+Personal Finance Management App
+
+Developed by PromptPlanner Team
