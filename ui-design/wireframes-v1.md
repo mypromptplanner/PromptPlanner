@@ -48,3 +48,29 @@ Upcoming Payments
 
 Credit Card Bill
 Home Loan EMI
+Screen 4 - Add Income
+Amount
+
+[____________]
+
+Source
+
+( ) Salary
+
+( ) Business
+
+( ) Freelance
+
+( ) Interest
+
+( ) Other
+
+Date
+
+[ Select Date ]
+
+Notes
+
+[________________]
+
+[ Save ]
